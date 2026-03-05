@@ -10,6 +10,6 @@ class URI
 
         int result = (a*b-c*d);
 
-        Console.WriteLine($"DIFERENCA = {result} ");   
+        Console.WriteLine($"DIFERENCA = {result}");   
     }
 }
